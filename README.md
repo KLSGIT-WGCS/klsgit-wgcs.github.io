@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="favicon.ico">
+
 # Welcome to KLS GIT's Working Group of Cybersecurity!
 **KLS GIT Cybersecurity Working Group** is a student body that is dedicated to promoting cybersecurity practices and creating awareness about the importance of online security. Our mission is to create a safer online environment for everyone, by educating and empowering our community to stay secure in today's digital world.
 
